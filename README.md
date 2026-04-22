@@ -238,3 +238,39 @@ Todos los derechos reservados © 2026
 **Última actualización**: Abril 2026  
 **Propuesta válida**: 30 días desde presentación
 
+
+---
+
+## 🖥️ Instalación Local
+
+### Requisitos Previos
+
+- Git instalado
+- Node.js 18+ (opcional, para desarrollo web)
+
+### Pasos para Clonar
+
+\`\`\`bash
+# Clonar el repositorio
+git clone https://github.com/henryor/enerted-web-redesign.git
+cd enerted-web-redesign
+
+# Ver estructura
+ls -la
+\`\`\`
+
+### Acceder a la Documentación
+
+\`\`\`bash
+# Leer la propuesta completa
+cat docs/PROPUESTA_MARKETING_DIGITAL.md
+
+# O abrirla en editor
+code docs/PROPUESTA_MARKETING_DIGITAL.md  # VS Code
+\`\`\`
+
+### Actualizar Cambios
+
+\`\`\`bash
+git pull origin main
+\`\`\`
